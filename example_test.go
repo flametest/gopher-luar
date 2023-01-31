@@ -4,7 +4,7 @@ import (
 	"fmt"
 
 	"github.com/yuin/gopher-lua"
-	"layeh.com/gopher-luar"
+	"github.com/flametest/gopher-luar"
 )
 
 type User struct {
